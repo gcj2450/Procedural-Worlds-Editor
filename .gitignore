@@ -41,3 +41,5 @@ TestResults-*
 *_data/
 
 Assets/Tests_TMP*
+/.vs
+/.vsconfig
